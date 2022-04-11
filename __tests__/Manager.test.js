@@ -19,4 +19,5 @@ const managers = new Manager("Egor", 44, "eg@yahoo", 1212);
 managers.getName();
 managers.getId();
 managers.getEmail();
+managers.getRole();
 managers.getOfficeNumber();

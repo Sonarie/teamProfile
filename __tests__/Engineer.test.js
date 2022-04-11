@@ -24,4 +24,5 @@ const engineers = new Engineer(
 engineers.getName();
 engineers.getId();
 engineers.getEmail();
+engineers.getRole();
 engineers.getGithub();

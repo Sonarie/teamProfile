@@ -6,3 +6,7 @@ header {
     border: 5px;
     border: black;
 }
+
+.cardHeader{
+    background-color: blue;
+}

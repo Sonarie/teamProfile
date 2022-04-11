@@ -19,4 +19,5 @@ const interns = new Intern("Luci", 55, "lu@yahoo", "Westonka");
 interns.getName();
 interns.getId();
 interns.getEmail();
+interns.getRole();
 interns.getSchool();

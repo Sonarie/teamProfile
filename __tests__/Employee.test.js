@@ -17,3 +17,4 @@ const employees = new Employee("Sonja", 88, "so@yahoo");
 employees.getName();
 employees.getId();
 employees.getEmail();
+employees.getRole();
